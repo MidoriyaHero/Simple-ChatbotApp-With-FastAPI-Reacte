@@ -52,7 +52,7 @@ const Chat = () => {
   };
 
   return (
-
+    
     <Flex direction="column" h="100vh" w="100vw" bg="gray.50" p={4}>
       <Box flex="1" bg="white" borderRadius="md" boxShadow="sm" overflowY="auto" p={4}>
         <VStack align="stretch" spacing={4}>
